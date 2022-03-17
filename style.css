@@ -73,6 +73,7 @@ a:hover {
   display: inline-block;
   padding: 0px 20px;
   padding-left: 0px;
+  padding-right: 20px;
   width: 30px;
   margin: 0 auto;
 }
