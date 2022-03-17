@@ -45,7 +45,7 @@ body {
 
 a {
   color: royalblue;
-  text-decoration: underline dotted;
+  text-decoration: dashed underline overline;
 }
 
 a:hover {
@@ -72,8 +72,6 @@ ul {
   width: 30px;
   margin: 0 auto;
   text-align: center;
-
-
 }
 
 #pic {
