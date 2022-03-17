@@ -61,10 +61,15 @@ a:hover {
   padding: 30px;
 }
 
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
 .list-inline {
   list-style: none;
   display: inline-block;
-  padding: 0px 20px;
   padding-left: 0px;
   width: 30px;
   margin: 0 auto;
