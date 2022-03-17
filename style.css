@@ -64,15 +64,13 @@ a:hover {
 }
 
 .list-inline > li {
-
   padding: 0px 20px;
-
 }
 
 .list-inline {
   list-style: outside none none;
   display: inline-block;
-  padding: 0px 10px;
+  padding: 0px 0px;
   width: 30px;
   margin: 0 auto;
   padding-left: 0px;
