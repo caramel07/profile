@@ -68,6 +68,7 @@ a:hover {
 .list-inline {
   list-style: none;
   display: inline-block;
+  display: contents;
   width: 30px;
   margin: 0 auto;
   text-align: center;
