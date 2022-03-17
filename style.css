@@ -67,6 +67,8 @@ a:hover {
   width: 30px;
   margin: 0 auto;
   text-align: center;
+  padding: initial;
+
 }
 
 #pic {
