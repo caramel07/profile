@@ -67,6 +67,7 @@ a:hover {
 }
 .list-inline {
   list-style: none;
+  display: inline-block;
   width: 30px;
   margin: 0 auto;
   text-align: center;
